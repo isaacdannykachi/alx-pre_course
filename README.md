@@ -1,1 +1,1 @@
-my first readme
+A descriptive readme
